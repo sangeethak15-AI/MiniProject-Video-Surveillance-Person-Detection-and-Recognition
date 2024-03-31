@@ -42,7 +42,7 @@ Managing the output of matched frames, preventing duplication or flooding of the
 ## INSTALLATION:
 1. Clone the repository:
 ```
-git clone https://github.com/Rithigasri/MiniProject-Video-Surveillance-Person-Detection-and-Recognition.git
+git clone https://github.com/sangeethak15-AI/MiniProject-Video-Surveillance-Person-Detection-and-Recognition.git
 ```
 3. Install the required packages:
 ```
